@@ -142,5 +142,5 @@ const chef = {
 
 //Qual è il metodo migliore per clonare l’oggetto chef, e perché?
 //allora questo è un caso particolare perchè con tutti i metodi perderemmo qualcosa, con quello superficiale (...chef) avemmo la funzione ma perderemmo gli annidamenti
-// con lo structureClone avremmo gli annidamenti ma perderemmo la funzione, se dobbiamo oprate per le 2 scelierei la seconda, meglio rifare solo la funzione
+// con lo structureClone avremmo gli annidamenti ma perderemmo la funzione, se dobbiamo optare per le 2 scelierei la seconda, meglio rifare solo la funzione
 // informandomi ho visto che cè un modo con una libreria  esterna chiamata lodash per fare un clone deep e avere sia funzioni che annidamenti quindi la scelta migliore
